@@ -1,0 +1,1 @@
+// Hauptkomponente – Bitte aus bestehendem Projekt übernehmen
