@@ -1,22 +1,8 @@
 # PixelG Stream
 
-A scalable Web3 livestream platform with React + Livepeer + Supabase.
+A scalable Web3 livestream platform using React, Livepeer and Supabase.
 
-## Features
-- Live streaming via Livepeer
-- Wallet login & VIP check
-- NFT badge minting (ERC721)
-- Multilingual UI
-
-## Tech Stack
-- React + TailwindCSS
-- ethers.js
-- Supabase
-- Livepeer
-
----
-
-## Run locally
+## Install
 ```bash
 npm install
 npm run dev
